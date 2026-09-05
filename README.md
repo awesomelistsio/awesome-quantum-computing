@@ -1,4 +1,4 @@
-# Awesome Quantum Computing [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Quantum Computing [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -105,10 +105,10 @@ Quantum computing leverages the principles of quantum mechanics to process infor
 
 ## Related Awesome Lists
 
-- [Awesome Qiskit](https://github.com/awesomelistsio/awesome-qiskit)
-- [Awesome Cirq](https://github.com/awesomelistsio/awesome-cirq)
-- [Awesome Quantum Programming](https://github.com/awesomelistsio/awesome-quantum-programming)
-- [Awesome Quantum Machine Learning](https://github.com/awesomelistsio/awesome-quantum-machine-learning)
+- [Awesome Qiskit](https://github.com/brandonhimpfen/awesome-qiskit)
+- [Awesome Cirq](https://github.com/brandonhimpfen/awesome-cirq)
+- [Awesome Quantum Programming](https://github.com/brandonhimpfen/awesome-quantum-programming)
+- [Awesome Quantum Machine Learning](https://github.com/brandonhimpfen/awesome-quantum-machine-learning)
   
 ## Contribute
 
